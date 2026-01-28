@@ -1,14 +1,21 @@
-import './App.css'
+import "./App.css";
+import Nav from "./assets/navbar/Nav";
+import Header from "./Header section/Header";
 
 function App() {
 
   return (
     <>
-      
-        <h1 className='text-center text-6xl uppercase text-red-500 '>arman</h1>
-        
+      <div className="mt-10">
+        <div>
+          <Nav> </Nav>
+        </div>
+        <div>
+          <Header> </Header>
+        </div>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
