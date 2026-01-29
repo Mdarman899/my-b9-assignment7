@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div className="bg text-white">
-      <p className="text-5xl font-bold text-center w-3/6 mx-auto pt-44 ">
+      <p className="text-5xl font-bold text-center w-4/6 mx-auto pt-44 ">
         Discover an exceptional cooking 
       </p>
       <p className="text-5xl font-bold text-center w-3/6 mx-auto pt-5 ">

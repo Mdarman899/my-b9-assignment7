@@ -1,6 +1,6 @@
 const Nav = () => {
   return (
-    <div className="w-9/12 mx-auto">
+    <div className=" mx-auto">
       <div className="flex justify-between">
         <h1 className="font-bold text-3xl ">Recepe calories</h1>
         <div className="flex items-center gap-5 text-lg font-medium">
