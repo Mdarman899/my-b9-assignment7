@@ -1,5 +1,6 @@
 import "./App.css";
 import Nav from "./assets/navbar/Nav";
+import Card from "./card/Card";
 import Header from "./Header section/Header";
 import Main from "./main section/Main";
 
@@ -17,6 +18,7 @@ function App() {
         </div>
         <div>
           <Main> </Main>
+          <Card> </Card>
         </div>
       </div>
     </>

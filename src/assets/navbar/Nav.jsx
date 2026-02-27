@@ -4,8 +4,8 @@ const Nav = () => {
       <div className="flex justify-between">
         <h1 className="font-bold text-3xl ">Recepe calories</h1>
         <div className="flex items-center gap-5 text-lg font-medium">
-            <p>Recipe</p>
             <p>Home</p>
+            <p>Recipe</p>
             <p>About</p>
             <p>Search</p>
         </div>

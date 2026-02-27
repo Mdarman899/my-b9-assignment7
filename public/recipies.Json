@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_image": "https://example.com/images/lemon-garlic-chicken.jpg",
+    "recipe_id": "RCP001",
+    "recipe_name": "Lemon Garlic Chicken",
+    "short_description": "Juicy pan-seared chicken breasts infused with fresh lemon and garlic flavors.",
+    "ingredients": [
+      "550 g chicken breast",
+      "4 cloves garlic",
+      "120 ml lemon juice",
+      "2 tbsp olive oil",
+      "5 g salt",
+      "3 g black pepper",
+      "10 g fresh parsley"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calorie"
+  },
+  {
+    "recipe_image": "https://example.com/images/creamy-mushroom-pasta.jpg",
+    "recipe_id": "RCP002",
+    "recipe_name": "Creamy Mushroom Pasta",
+    "short_description": "Rich and creamy pasta tossed with sautéed mushrooms and parmesan cheese.",
+    "ingredients": [
+      "400 g pasta",
+      "300 g mushroom",
+      "200 ml heavy cream",
+      "80 g parmesan cheese",
+      "2 cloves garlic",
+      "15 ml olive oil",
+      "5 g salt"
+    ],
+    "preparing_time": "25 min",
+    "calories": "450 calorie"
+  },
+  {
+    "recipe_image": "https://example.com/images/spicy-beef-tacos.jpg",
+    "recipe_id": "RCP003",
+    "recipe_name": "Spicy Beef Tacos",
+    "short_description": "Flavorful ground beef tacos with a spicy kick and fresh toppings.",
+    "ingredients": [
+      "500 g ground beef",
+      "8 taco shells",
+      "150 g lettuce",
+      "120 g cheddar cheese",
+      "100 g tomato",
+      "10 g chili powder",
+      "5 g cumin"
+    ],
+    "preparing_time": "20 min",
+    "calories": "520 calorie"
+  },
+  {
+    "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+    "recipe_id": "RCP004",
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "Colorful mixed vegetables stir-fried in a savory soy sauce glaze.",
+    "ingredients": [
+      "200 g broccoli",
+      "150 g carrot",
+      "180 g bell pepper",
+      "120 g snap peas",
+      "60 ml soy sauce",
+      "15 ml sesame oil",
+      "5 g ginger"
+    ],
+    "preparing_time": "15 min",
+    "calories": "210 calorie"
+  },
+  {
+    "recipe_image": "https://example.com/images/baked-salmon.jpg",
+    "recipe_id": "RCP005",
+    "recipe_name": "Herb Baked Salmon",
+    "short_description": "Oven-baked salmon fillet seasoned with fresh herbs and lemon slices.",
+    "ingredients": [
+      "400 g salmon fillet",
+      "1 lemon",
+      "10 g fresh dill",
+      "15 ml olive oil",
+      "5 g salt",
+      "3 g black pepper",
+      "2 cloves garlic"
+    ],
+    "preparing_time": "35 min",
+    "calories": "390 calorie"
+  },
+  {
+    "recipe_image": "https://example.com/images/chocolate-pancakes.jpg",
+    "recipe_id": "RCP006",
+    "recipe_name": "Chocolate Pancakes",
+    "short_description": "Fluffy chocolate pancakes perfect for a sweet breakfast treat.",
+    "ingredients": [
+      "250 g flour",
+      "40 g cocoa powder",
+      "300 ml milk",
+      "2 eggs",
+      "50 g sugar",
+      "10 g baking powder",
+      "30 g butter"
+    ],
+    "preparing_time": "20 min",
+    "calories": "480 calorie"
+  }
+]
