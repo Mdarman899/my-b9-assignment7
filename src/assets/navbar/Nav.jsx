@@ -11,10 +11,10 @@ const Nav = () => {
         </div>
         <div>
           <input
-            placeholder="find your recipe"
+            placeholder="Find your recipe"
             type="text"
             className="bg-amber-200
-            text-xl p-2 text-center font-bold rounded-2xl hover:bg-black hover:text-white "
+            text-xl p-2 text-center font-semibold rounded-2xl hover:bg-black hover:text-white "
           />
         </div>
       </div>

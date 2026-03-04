@@ -1,6 +1,6 @@
 [
   {
-    "recipe_image": "https://example.com/images/lemon-garlic-chicken.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP001",
     "recipe_name": "Lemon Garlic Chicken",
     "short_description": "Juicy pan-seared chicken breasts infused with fresh lemon and garlic flavors.",
@@ -17,7 +17,7 @@
     "calories": "320 calorie"
   },
   {
-    "recipe_image": "https://example.com/images/creamy-mushroom-pasta.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP002",
     "recipe_name": "Creamy Mushroom Pasta",
     "short_description": "Rich and creamy pasta tossed with sautéed mushrooms and parmesan cheese.",
@@ -34,7 +34,7 @@
     "calories": "450 calorie"
   },
   {
-    "recipe_image": "https://example.com/images/spicy-beef-tacos.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP003",
     "recipe_name": "Spicy Beef Tacos",
     "short_description": "Flavorful ground beef tacos with a spicy kick and fresh toppings.",
@@ -51,7 +51,7 @@
     "calories": "520 calorie"
   },
   {
-    "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP004",
     "recipe_name": "Vegetable Stir Fry",
     "short_description": "Colorful mixed vegetables stir-fried in a savory soy sauce glaze.",
@@ -68,7 +68,7 @@
     "calories": "210 calorie"
   },
   {
-    "recipe_image": "https://example.com/images/baked-salmon.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP005",
     "recipe_name": "Herb Baked Salmon",
     "short_description": "Oven-baked salmon fillet seasoned with fresh herbs and lemon slices.",
@@ -85,7 +85,7 @@
     "calories": "390 calorie"
   },
   {
-    "recipe_image": "https://example.com/images/chocolate-pancakes.jpg",
+    "recipe_image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     "recipe_id": "RCP006",
     "recipe_name": "Chocolate Pancakes",
     "short_description": "Fluffy chocolate pancakes perfect for a sweet breakfast treat.",

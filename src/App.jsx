@@ -1,6 +1,6 @@
 import "./App.css";
 import Nav from "./assets/navbar/Nav";
-import Card from "./card/Card";
+import Cards from "./cards/cards";
 import Header from "./Header section/Header";
 import Main from "./main section/Main";
 
@@ -18,7 +18,7 @@ function App() {
         </div>
         <div>
           <Main> </Main>
-          <Card> </Card>
+          <Cards> </Cards>
         </div>
       </div>
     </>
