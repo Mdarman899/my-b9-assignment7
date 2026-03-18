@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
-
 @import "tailwindcss";
+@plugin "daisyui";
 
 .bg {
   background-image: url('/public/picture/bg1.png');
   height:85vh;
   background-repeat: no-repeat;
   background-position: center;
+  /* width: 1440px; */
 }
 
 body {

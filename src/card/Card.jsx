@@ -1,12 +1,14 @@
  
-const Card = () => {
+const Card = ({recipe}) => {
+  console.log(recipe);
+  const {recipe_image} = recipe ;
   return (
-    <div className="border-2 border-black w-96 mb-20 rounded-2xl">
+    <div className="  w-60 mb-20 rounded-2xl">
       <div className="card bg-base-100 w-96 shadow-sm p-5">
-        <figure className="l">
+        <figure className="1">
           <img
             className=" rounded-2x"
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+            src={recipe_image}
             alt="Shoes"
           />
         </figure>
