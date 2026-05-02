@@ -5,7 +5,7 @@ const Cards = ({handleAddCook}) => {
   const [recipie, setrecipie] = useState([]);
   //  console.log(handleAddCook)
   useEffect(() => {
-    fetch("/recipies json/recipies.json")
+    fetch("/recipies_json/recipies.json")
       .then((res) => res.json())
       .then((data) => setrecipie(data));
   }, []);
